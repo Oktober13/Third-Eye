@@ -1,8 +1,8 @@
-OSXStandalone
+iOS
 PlayerPath?
-/Users/DanielLuo/Unity Projects/Third Eye/fake.app
+/Users/DanielLuo/Unity Projects/Third Eye/iphoneCamera
 SceneListBegin?
-
+Assets/MainScene.unity
 SceneListEnd?
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
 4b12dd839b2293f8457cd67cc3610b85 UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationTrack
@@ -147,3 +147,5 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingCollider
 45f3431f0103c41611e8d4eec3d439df UnityEngine.HoloLens.dll:UnityEngine.XR.WSA.SpatialMappingRenderer
 9de3a22eca9aefadba2d10d5987cefe3 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
+269dedd56aa4cd36f2247171c5bb4009 Assembly-CSharp.dll:.PhoneCamera
+dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.PhoneBehavior
